@@ -37,7 +37,7 @@ python-dateutil==2.9.0.post0; python_version >= '2.7' and python_version not in 
 python-multipart==0.0.20; python_version >= '3.8'
 pytz==2024.2
 pyyaml==6.0.2; python_version >= '3.8'
-requests==2.32.3; python_version >= '3.8'
+requests==2.32.4; python_version >= '3.8'
 rich==13.9.4; python_full_version >= '3.8.0'
 ruff==0.9.1; sys_platform != 'emscripten'
 safehttpx==0.1.6; python_version >= '3.10'
